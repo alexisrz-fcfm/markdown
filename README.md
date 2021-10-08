@@ -11,5 +11,5 @@ Aqui es donde pondemos contruir
 ```
 
 ![unaImagen](md.jpg)
-
-[archivo](archivo.txt)
+> o
+[Un acceso a un archivo](archivo.txt)

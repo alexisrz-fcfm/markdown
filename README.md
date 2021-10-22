@@ -13,3 +13,11 @@ Aqui es donde pondemos contruir
 ![unaImagen](md.jpg)
 > o
 [Un acceso a un archivo](archivo.txt)
+
+```javascript
+console.log()
+```
+
+[Este es un enlace a un nuevo archivo](archivoNuevo.txt)
+
+> ahbahba 
